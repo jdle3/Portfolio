@@ -173,7 +173,6 @@ body {
 }
 .contact-details {
     padding-left: 60%;
-    padding-top: 2%;
     color: #FFF;
 }
 
@@ -182,9 +181,9 @@ body {
 }
 
 .display-2 {
-    padding-left: 18%;
-    padding-top: 5%;
-    padding-bottom: 5%;
+    padding-left: 17.5%;
+    padding-top: 3%;
+    padding-bottom: 2%;
 }
 
 #fullName {
@@ -218,6 +217,13 @@ body {
 
 .contact-info:hover {
     color: #d3d2d2;
+}
+
+.contact-picture {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin-left: 10%;
 }
 
 .display-6 {
